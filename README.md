@@ -26,9 +26,6 @@
 ---
 
 
-
----
-
 ## 📫 Connect with Me
 <p align="left">
   <a href="https://www.facebook.com/max.chongdet/">
