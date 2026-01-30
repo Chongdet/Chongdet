@@ -1,9 +1,5 @@
 # 👨‍💻 MAX CHONGDET | DSSI #1 @UBU
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=36454F&height=250&section=header&text=WELCOME%20TO%20MY%20SPACE&fontSize=60&animation=fadeIn&fontAlignY=40" />
-</p>
-
 ## 🎓 Education & Journey
 * 🏛 **Freshman (Year 1)** at **Ubon Ratchathani University (UBU)**
 * 💡 Major in **Digital Science and Software Innovation (DSSI)**
