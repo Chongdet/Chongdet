@@ -16,10 +16,10 @@
   </a>
 </p>
 
-### ☁️ Tools & Infrastructure
+### ☁️ Tools, DB & IoT
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mysql,postgres,firebase,vscode,powershell,github,windows&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,mysql,postgres,firebase,arduino,vscode,github,windows&perline=8" />
   </a>
 </p>
 
