@@ -6,7 +6,7 @@
 
 ### 🎓 Education
 - 🏛 **Freshman (Year 1)** at **Ubon Ratchathani University (UBU)**
-- 💡 Major in **Digital Science and Software Innovation (DSSI)**
+- 💡 Major in **Datascince Science and Software Innovation (DSSI)**
 
 ### 🚀 About Me
 - 🔭 I’m currently working on: **Object-Oriented Programming (OOP)**
