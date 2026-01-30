@@ -25,25 +25,10 @@
 
 ---
 
-## 📈 Activity & Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chongdet&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Max's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chongdet&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chongdet&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
----
-
 ## 📫 Connect with Me
 <p align="left">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.facebook.com/your-profile">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="[https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://www.facebook.com/max.chongdet/)" />
   </a>
 </p>
 
