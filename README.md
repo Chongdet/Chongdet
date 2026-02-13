@@ -4,7 +4,7 @@
 * 🏛 **Freshman (Year 1)** at **Ubon Ratchathani University (UBU)**
 * 💡 Major in **DataScience and Software Innovation (DSSI)**
 * 🚀 Focus: **Full-stack Development** & **Object-Oriented Design**
-
+* 🌎 **Dream:** Aspiring to work as a **Global Software Engineer** in an international environment. ✈️
 ---
 
 ## 🛠 My Tech Universe
